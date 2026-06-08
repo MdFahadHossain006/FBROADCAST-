@@ -1,12 +1,24 @@
-# 🎬 FBROADCAST (StreamCast)
+<div align="center">
+
+ # 🎬 FBROADCAST (StreamCast) 📡 
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=header&text=FBROADCAST&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](https://github.com/)
 [![Platform: Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
 [![Built with: Jetpack Compose](https://img.shields.io/badge/Built%20with-Jetpack%20Compose-blue.svg)](https://developer.android.com/jetpack/compose)
 [![Security: Anti--Clone Shield](https://img.shields.io/badge/Security-Anti--Clone%20Shield-gold.svg)]()
 
-**FBROADCAST** is a premium, ultra-fast, and secure live-broadcaster streaming application for Android. Engineered using modern Jetpack Compose architecture and a highly optimized ExoPlayer backend, it delivers a seamless, zero-lag television and radio streaming experience featuring regional and worldwide channels.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=001524&text=THIS%20APP%20IS%20MADE%20BY%20FAHAD&fontSize=32&fontColor=00D9FF&fontAlignY=50&animation=twinkling&height=80" alt="Made By Fahad Sticker" />
 
+
+
+## 🌍 ABOUT FBROADCAST
+
+FBROADCAST is a modern digital broadcasting platform designed to provide access to **Live Television Channels** and **Online Radio Stations** from Bangladesh and around the world.The project aims to create a seamless streaming experience with an intuitive interface, high-quality playback, and global content accessibility.
+
+</div>
 ---
 
 ## 🚀 Premium Features
