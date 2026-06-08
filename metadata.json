@@ -1,0 +1,6 @@
+{
+  "name": "FBROADCAST",
+  "description": "A dark-themed livestreaming and video sharing platform called FBRODCUST, featuring all international and Bangladeshi TV channels, live broadcasts, real-time chats, user posts, and developer info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
