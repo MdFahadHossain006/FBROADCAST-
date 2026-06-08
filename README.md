@@ -18,8 +18,37 @@
 
 FBROADCAST is a modern digital broadcasting platform designed to provide access to **Live Television Channels** and **Online Radio Stations** from Bangladesh and around the world.The project aims to create a seamless streaming experience with an intuitive interface, high-quality playback, and global content accessibility.
 
+
+## 🛠 Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,flutter,dart,firebase,github,vscode" />
+
+</p>
+
+
 </div>
 ---
+
+## ✨ Features
+
+🚀 Live TV Streaming
+
+📻 Online Radio Streaming
+
+🌎 Worldwide Channel Collection Bangladesh TV & FM Radio
+
+⚡ Fast Loading & Smooth Playback
+
+📱 Mobile Friendly Design
+
+🔍 Easy Channel Discovery
+
+🎯 Clean User Interface
+
+🌙 Modern Experience
+
 
 ## 🚀 Premium Features
 
@@ -60,22 +89,86 @@ The integrated automated database splits streams cleanly into dedicated local co
 | **👶 Kids** | Animated cartoon feeds and children's content | Doraemon 24/7 Bangla |
 | **🌍 All / News** | Global international networks and entertainment | CNN, TRT World, Sony Entertainment, Zee Bangla |
 
----
+## DOWNLOAD APP 
 
-## 👤 Developer Profile
-
-> ### HELLO EVERYONE 👋
-> **I AM MD FAHAD HOSSAIN** > 🇧🇩 From Bangladesh  
-> 💻 **Software Developer | Web Developer | Android Developer | Cybersecurity Expert**
->
-> I build broadcasts for you so that you can watch TV and radio channels from Bangladesh and all over the world. If you want to contact me or if you have any ideas to share, feel free to send over a message! All of my dynamic links are accessible directly via the interactive developer panel in the app profile.
-> 
-> *Thank you for visiting my apps! Share it with each other so that everyone can enjoy it.* 💐
+👉 [FOR DOWNLOAD CLICK HERE ](https://drive.google.com/file/d/1cVmIkYG1qYFwib6uBGBWxgIb7hpQD8PH/view?usp=drivesdk)
 
 ---
 
-## 🛡️ License & Copyright
 
-**Copyright © 2026 Md. Fahad Hossain. All rights reserved.**
+## 🎥 Platform Preview
 
-This application is proprietary software. Unauthorized copying, modification, decompilation, redistribution, or repackaging of this source code, assets, or compiled binaries via any medium is strictly prohibited without explicit written consent from the licensed application owner.
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="100">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="100">
+</p>
+
+## 🌐 Available Content
+
+### 📺 Television Channels
+
+- Sports Channels
+- News Channels
+- Entertainment Channels
+- Music Channels
+- Kids Channels
+- Documentary Channels
+
+### 📻 Radio Stations
+
+- Bangladesh FM Radio
+- International Radio
+- News Radio
+- Music Radio
+- Talk Shows
+- Community Radio
+
+<div align="center">
+
+# 👨‍💻 Developer
+
+**MD FAHAD HOSSAIN**
+</div>
+
+## 📱 Developer Contact
+
+  - [Facebook](https://www.facebook.com/share/18YSgb9Ywo/)
+  - [Instagram](https://www.instagram.com/mdfahadhossain006)
+  - [YouTube](https://youtube.com/@brightnessworld)
+  - [GitHub](https://github.com/MdFahadHossain006)
+  - [GMAIL](hossainmdfahad67@ganil.com) 
+
+---
+### ⚠️ Copyright & License
+
+**© 2026 MD. FAHAD HOSSAIN. All Rights Reserved.**
+
+This project is **proprietary software**. Unauthorized copying, distribution, 
+modification, or use of this code is strictly prohibited.
+
+- ❌ **No forking** without permission
+- ❌ **No copying** of source code
+- ❌ **No commercial use**
+- ✅ **Personal use only** as an end-user
+
+**Legal action will be taken against violators.**
+
+[Contact for Licensing](https://www.instagram.com/mdfahadhossain006)
+
+
+<p align="center">
+
+<a href="https://github.com/MdFahadHossain006/FBROADCAST">
+<img src="https://img.shields.io/badge/⭐-Star%20This%20Repository-yellow?style=for-the-badge"/>
+</a>
+
+</p>
+
+
+<div align="center">
+
+### 📡 Connecting The World Through Broadcasting
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=120&section=footer"/>
+
+</div>
