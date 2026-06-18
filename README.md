@@ -91,7 +91,9 @@ The integrated automated database splits streams cleanly into dedicated local co
 
 ## DOWNLOAD APP 
 
-👉 [FOR DOWNLOAD CLICK HERE ](https://drive.google.com/file/d/1cVmIkYG1qYFwib6uBGBWxgIb7hpQD8PH/view?usp=drivesdk)
+👉 [FOR DOWNLOAD VERSION 1.2.0 (LATEST) CLICK HERE ](https://drive.google.com/drive/folders/1OCCRn8fp_snqUmHDe5DB0-xupui75-Mq)
+
+👉 [FOR DOWNLOAD VERSION 1.1.0 CLICK HERE ](https://drive.google.com/file/d/1cVmIkYG1qYFwib6uBGBWxgIb7hpQD8PH/view?usp=drivesdk)
 
 ---
 
